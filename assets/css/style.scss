@@ -5,7 +5,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 $pink: #DB118A;
 $teal: #299ebc;
-$purple: #827AC0;
+$light-pink: lighten( $pink, 30% );
+$light-teal: lighten( $teal, 30% );
 .project-name {font-family: 'Permanent Marker', 'Open Sans', sans-serif; letter-spacing: 2px;}
 .project-tagline { color: white; font-family: 'Open Sans', sans-serif; opacity: 1;}
 .header-svg {
@@ -17,15 +18,16 @@ $purple: #827AC0;
     padding: 0;
     /* set height to pixels if you want angle to change with screen width */
   }
-
-
-nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; font-size: 1.5rem; padding-right: 2rem; letter-spacing: 2px;}
+a { color: $teal;}
+a:hover{  background: linear-gradient(180deg, rgba(255,255,255,0) 65%, $light-pink 65%); text-decoration: none;}
+.highlight {background: linear-gradient(180deg, rgba(255,255,255,0) 65%, $light-teal 65%);}
+nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; font-size: 1.5rem; margin-right: 2rem; letter-spacing: 2px; text-decoration: none; background: none;}
 .page-header {padding: 0; background-color: $pink; background-image: linear-gradient(120deg, $pink, $teal);}
 .header-text {padding: 2rem;}
 .main-content h1, .main-content h2, .main-content h3, .main-content h4 {color: $pink; font-family: 'Permanent Marker', 'Open Sans', sans-serif; letter-spacing: 2px;}
-a { color: $teal;}
-.btn { color:white; background-color: $teal; font-weight: 800;}
-.btn:hover { color: white; background-color: lighten( $teal, 12% )}
+
+.btn { color:white; background: none; background-color: $teal; font-weight: 800;}
+.btn:hover { color: white; background: none; background-color: lighten( $teal, 12% )}
 .footer-svg {
     position: relative;
     top: -2.05rem;

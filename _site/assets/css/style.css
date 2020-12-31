@@ -325,7 +325,13 @@ a:hover { text-decoration: underline; }
 
 .header-svg { position: relative; bottom: -7px; width: 100%; height: 6vw; margin: 0; padding: 0; /* set height to pixels if you want angle to change with screen width */ }
 
-nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; font-size: 1.5rem; padding-right: 2rem; letter-spacing: 2px; }
+a { color: #299ebc; }
+
+a:hover { background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #f68fcd 65%); text-decoration: none; }
+
+.highlight { background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #96d7e8 65%); }
+
+nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; font-size: 1.5rem; margin-right: 2rem; letter-spacing: 2px; text-decoration: none; background: none; }
 
 .page-header { padding: 0; background-color: #DB118A; background-image: linear-gradient(120deg, #DB118A, #299ebc); }
 
@@ -333,11 +339,9 @@ nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; 
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4 { color: #DB118A; font-family: 'Permanent Marker', 'Open Sans', sans-serif; letter-spacing: 2px; }
 
-a { color: #299ebc; }
+.btn { color: white; background: none; background-color: #299ebc; font-weight: 800; }
 
-.btn { color: white; background-color: #299ebc; font-weight: 800; }
-
-.btn:hover { color: white; background-color: #4bbbd8; }
+.btn:hover { color: white; background: none; background-color: #4bbbd8; }
 
 .footer-svg { position: relative; top: -2.05rem; width: 100%; height: 6vw; margin: 0; padding: 0; /* set height to pixels if you want angle to change with screen width */ }
 
