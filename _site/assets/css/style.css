@@ -323,12 +323,18 @@ a:hover { text-decoration: underline; }
 
 .project-tagline { color: white; font-family: 'Open Sans', sans-serif; opacity: 1; }
 
-svg { position: relative; bottom: -6px; width: 100%; height: 6vw; margin: 0; padding: 0; /* set height to pixels if you want angle to change with screen width */ }
-
-.main-content h1, .main-content h2, .main-content h3, .main-content h4 { color: #EF3CA7; font-family: 'Permanent Marker', 'Open Sans', sans-serif; }
+.header-svg { position: relative; bottom: -7px; width: 100%; height: 6vw; margin: 0; padding: 0; /* set height to pixels if you want angle to change with screen width */ }
 
 nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; font-size: 1.5rem; padding-right: 2rem; }
 
-.page-header { padding: 0; background-image: linear-gradient(120deg, #EF3CA7, #74E6F5); }
+.page-header { padding: 0; background-color: #EF3CA7; background-image: linear-gradient(120deg, #EF3CA7, #74E6F5); }
 
 .header-text { padding: 2rem; }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4 { color: #EF3CA7; font-family: 'Permanent Marker', 'Open Sans', sans-serif; }
+
+a { color: #039ac4; }
+
+.footer-svg { position: relative; top: -2.05rem; width: 100%; height: 6vw; margin: 0; padding: 0; /* set height to pixels if you want angle to change with screen width */ }
+
+.site-footer { width: 100%; padding-bottom: 3rem; color: #fff; font-weight: 800; text-align: center; background-color: #EF3CA7; background-image: linear-gradient(120deg, #EF3CA7, #74E6F5); }
