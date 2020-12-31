@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+---
+title: 'We are #MiamiTech'
+layout: default 
+---
+Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
-You can use the [editor on GitHub](https://github.com/rebekahmonson/miami-tech-manifesto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Now, at a time when physical anchors to place are a movable constant, the spotlight is on our community.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We’re taking advantage of this unique moment to articulate the values, opportunities, and principles that guide our vision -- both for ourselves and for those who wish to join us.  
 
-### Markdown
+This Manifesto is of, by, and for, the people behind the #miamitech movement. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## We Are A Community of Builders 
+We have grit, ingenuity, and as one of most entrepreneurial metro regions in the country, we innovate by necessity and for purpose beyond profit.  What you build in Miami will work anywhere.
 
-```markdown
-Syntax highlighted code block
+##We Disrupt the Status Quo
+We are a testing ground for novel ideas and experimentation. Our leaders are eager to build with and for all.  We’re not only after the next unicorn, but also the business models that elevate technology as a centrifuge to a thriving community.  
 
-# Header 1
-## Header 2
-### Header 3
+## We Believe Talent is Universal
+But we recognize that opportunity is not.  We are cultivating experiential and educational environments that address the human capital needs of 21st century companies.  Investing in an inclusive technology and entrepreneurial pipeline requires everyone do their part.
 
-- Bulleted
-- List
+## We Are Home To Outsiders 
+Over half of our population is foreign-born and we have one of the largest concentrations of immigrant entrepreneurs per capita. We value relationships and strive to welcome newcomers with open arms.  We make it our business to break down opportunity silos and concentrated power structures.  We do so to make it easier for all to integrate, connect and navigate this ecosystem. 
 
-1. Numbered
-2. List
+## We Are A Global Launchpad
+We are the gateway city, not only to LATAM and the Caribbean, but to the world.  Our unique geographic position makes us an ideal landing pad for capital and ventures seeking to expand internationally or enter the US market. 
 
-**Bold** and _Italic_ and `Code` text
+## We Are Driven By Our Inclusive Values
+Our community is multilingual, multi-cultural and though we struggle with meaningful integration, we are a true representation of the future of American cities: a majority-minority demographic. We are uniquely diverse but we are not yet a model for inclusion. Though, with such a large Hispanic and Caribbean population, it would be easy for us to make this claim.  
 
-[Link](url) and ![Image](src)
-```
+We aspire to be an ecosystem designed for and embodied by inclusion, access, racial equity, diversity, upward economic mobility and seamless connectivity.  We are on the way, but have such great lengths to go to ensure our Black, Indigenous, other Peoples of Color and LGBTQ+ people are fully represented by all measures of opportunity.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## We Are Not Silicon Anything
+We will never be the new Silicon Valley, Silicon Beach or anything but what makes our community unique.  We are not a barren wasteland for startups.  We rank high on startup activity and like most emerging markets are building the infrastructure necessary to increase the rate of scale.  Miami has earned a reputation as a global hub for technology and entrepreneurship because we have intentionally laid the groundwork over many years.
 
-### Jekyll Themes
+## We Are Collaborative
+We know that innovation is not a zero sum game.  It’s in our best interest to work together. Let’s collectively seek first to understand our existing ecosystem and aim to be additive, not duplicative.   But, please, get in where you best fit in and always endeavor to amplify the work of others. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rebekahmonson/miami-tech-manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## We Are Women Led
+We are the only major US city founded by a woman.  In fact, we’re proud that so many of the resources for founders -- from the accelerators, incubators, angel groups, coworking spaces, programs and conferences -- are women led.This doesn’t mean we’re free from the inequities in representative board leadership, access to capital, or the endemic bro-culture that plagues other tech communities. We all remain vigilant to avoid gender exclusive panels, committees or advisory groups.
+ 
+## We Are Transparent About Failure
+Which is really hard to do.  We still struggle with calling out the outliers whose actions erode public trust and confidence. Let’s be honest: we have a storied history of racial inequality, striking disparities, affordability, homelessness, financial insecurity, gentrification and cultural fragmentation.  Yet, we are constantly learning from our mistakes and from lessons of failures in other communities.
 
-### Support or Contact
+## We Are Building Together 
+We are building with intention, not perfection.  We welcome challenges, constructive critique, but most importantly, folks who want to make Miami better. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As we evolve, so will this #MiamiTech Manifesto.  It is a living statement of purpose and accountability.  It is a representation of our commitment to who we are as an ecosystem and where we strive to be.  It is a declaration of the principles we aim to uphold and the values we endeavor to embody.  
+
+Don’t just observe, become an active participant in our experiment.  Take the pledge, add these principles to your website or favorite online platform, and contribute in a way that adds value to our community.
