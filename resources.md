@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Take action on our community values
+# Take action on our community values with these resources
 Here are some ways you can ensure you and your company or organization are living up to our shared #MiamiTech values.
 
 ## Collaborate

@@ -21,7 +21,7 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <div class="header-text"></div>
+      <div class="header-text">
         <h1 class="project-name">{{ site.title }}</h1>
         <h2 class="project-tagline">{{ site.description }}</h2>
         {% include navigation.html %}
@@ -39,9 +39,10 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" class="footer-svg">
         <polygon fill="white" points="0,0 0,100 100,0"/>
       </svg>
+      <div class="footer-text">
         <p>This site is managed and maintained by <a href="{{ site.github.repository_url }}/README.md#current-organizing-committee">an organizing committee of local tech leaders</a> with &hearts; for Miami.</p>
         <p> We would love your help improving this site and strengthening our community and our mission. <a href="{{ site.github.repository_url }}">Learn more and contribute on Github.</a></p>
-      </footer>
+      </div>
     </footer>
   </body>
 </html>
