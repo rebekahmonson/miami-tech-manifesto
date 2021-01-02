@@ -21,9 +21,11 @@ $light-teal: lighten( $teal, 33% );
 a { color: $teal;}
 a:hover{  background: linear-gradient(180deg, rgba(255,255,255,0) 65%, $light-pink 65%); text-decoration: none;}
 .highlight {background: linear-gradient(180deg, rgba(255,255,255,0) 65%, $light-teal 65%);}
+.counter{ font-family: 'Permanent Marker', 'Open Sans', sans-serif; letter-spacing: 2px; font-size: 200%;}
+.highlight-number {background: linear-gradient(180deg, rgba(255,255,255,0) 65%, $pink 65%);}
 nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; font-size: 1.5rem; margin-right: 2rem; letter-spacing: 2px; text-decoration: none; background: none;}
 .page-header {padding: 0; background-color: $pink; background-image: linear-gradient(120deg, $pink, $teal);}
-.header-text {padding: 2rem;}
+.header-text {padding: 0 10%;}
 .main-content h1, .main-content h2, .main-content h3, .main-content h4 {color: $pink; font-family: 'Permanent Marker', 'Open Sans', sans-serif; letter-spacing: 2px;}
 
 .btn { color:white; background: none; background-color: $teal; font-weight: 800;}

@@ -23,8 +23,10 @@
     <header class="page-header" role="banner">
       <div class="header-text">
         <h1 class="project-name">{{ site.title }}</h1>
-        <h2 class="project-tagline">{{ site.description }}</h2>
+        
+        <h2>{{ site.description }}</h2>
         {% include navigation.html %}
+        <h2 class="counter">More than <span class="highlight-number">{{ page.counter }} pledges</span> signed!</span> <br/>
       </div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" class="header-svg">
         <polygon fill="white" points="0,100 100,0 100,100"/>
