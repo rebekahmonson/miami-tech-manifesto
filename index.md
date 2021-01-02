@@ -51,7 +51,7 @@ As we evolve, so will this #MiamiTech Manifesto.  It is a living statement of pu
 
 Don’t just observe, become an active participant in our experiment. <a href="https://forms.gle/xdVAqt6joyorSYHX6" target="_blank">Take the pledge,</a> add these principles to your website or favorite online platform, and contribute in a way that adds value to our community.
 
-# Who is <span class="highlight">#MiamiTech?</span>
+# We are <span class="highlight">#MiamiTech</span>
 The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together. 
 
 **Michelle Abbs,** Managing Director Mana Tech
