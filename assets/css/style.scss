@@ -11,7 +11,7 @@ $light-teal: lighten( $teal, 33% );
 .project-tagline { color: white; font-family: 'Open Sans', sans-serif; opacity: 1;}
 .header-svg {
     position: relative;
-    bottom: -7px;
+    bottom: -6px;
     width: 100%;
     height: 6vw;
     margin: 0;
@@ -30,7 +30,7 @@ nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; 
 .btn:hover { color: white; background: none; background-color: lighten( $teal, 12% )}
 .footer-svg {
     position: relative;
-    top: -2.05rem;
+    top: -2.08rem;
     width: 100%;
     height: 6vw;
     margin: 0;
