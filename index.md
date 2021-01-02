@@ -77,11 +77,13 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Melissa Medina,** eMerge Americas
 
-**Rebekah Monson,** Whereby.us
+**Rebekah Monson,** WhereBy.Us
 
 **Cari Pérez,** General Assembly 
 
 **Ivan Rapin-Smith,** Watsco Ventures
+
+**Ryan Rea,** @Volvoshine
 
 **Max Tuchman,** Caribu
 
