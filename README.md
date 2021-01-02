@@ -7,7 +7,7 @@ To suggest changes, additions or refinements to this document, you can submit an
 If you're not comfortable using Github, you can also submit your suggestions through our [discussions forum.](https://github.com/rebekahmonson/miami-tech-manifesto/discussions/) Please remember that our Code of Conduct applies to all discussions in the forum and in relation to this organization.
 
 ### Who manages suggestions and approvals?
-All updates to this site and pledge submissions are reviewed and approved by an organizing committee of volunteers from the #MiamiTech community. If you would like to volunteer with us, please [fill out this form.](https://forms.gle/FgFgRgPMCAxs9VD29). We aim to review suggestions, submissions, and pull requests weekly.
+All updates to this site and pledge submissions are reviewed and approved by an organizing committee of volunteers from the #MiamiTech community. If you would like to volunteer with us, please [fill out this form.](https://forms.gle/FgFgRgPMCAxs9VD29) We aim to review suggestions, submissions, and pull requests weekly.
 
 # Contributor Covenant Code of Conduct
 
