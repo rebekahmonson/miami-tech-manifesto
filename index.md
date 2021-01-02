@@ -1,7 +1,7 @@
 ---
 title: 'We are #MiamiTech'
 layout: default
-image: /assets/socialimg.png 
+image: /assets/images/socialimg.png 
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
