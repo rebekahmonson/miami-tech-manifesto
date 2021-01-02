@@ -73,7 +73,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Felecia Hatcher-Pearson,** Center for Black Innovation
 
-**Christine Johnson,** Beacon Council 
+**Christine Johnson,** Beacon Council
+
+**Ja'dan Johnson,** Center For Black Innovation
+
+**Herwig Konings,** Security Token Group 
 
 **Natalia Martinez-Kalinina**
 
@@ -81,16 +85,24 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Rebekah Monson,** WhereBy.Us
 
+**Marcia Narine Weldon,** Illuminating Wisdom, LLC 
+
 **Cari Pérez,** General Assembly 
+
+**Michael J. Pichardo,** REEF
 
 **Ivan Rapin-Smith,** Watsco Ventures
 
 **Ryan Rea,** @Volvoshine
 
-**Max Tuchman,** Caribu
+**Jorge Ruiz,** CEO, Finconecta 
+
+**Max Tuchman,** Co-founder and CEO, Caribu
 
 **Carlos Vazquez,** Miami EdTech
 
 **David Zinn,** Ocean Azul Partners
+
+
 
 
