@@ -53,7 +53,7 @@ Don’t just observe, become an active participant in our experiment. <a href="h
 # Who is <span class="highlight">#MiamiTech?</span>
 The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together. 
 
-**Michelle Abbs**
+**Michelle Abbs,** Managing Director Mana Tech
 
 **Chris Adamo,** CBO/Investor at WhereBy.Us/Letterhead
 
@@ -64,6 +64,10 @@ The following members of the #MiamiTech community have committed to upholding th
 **JC Alvarez,** Clarify and Built In Miami
 
 **Andres Arias** / Clarity
+
+**Prem Balwani** - Founder & CEO iGrabit
+
+**Matthew Beatty,** The Carrie Meek Foundation
 
 **Demian Bellumio**
 
@@ -77,7 +81,11 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Brian Breslin** - Refresh Miami + The Launch Pad
 
+**Stephanie Brito,** Software Engineer at Google + Master’s Student at Stanford
+
 **Leigh-Ann Buchanan,** President & Executive Director, Venture Cafe Miami
+
+**Maria Budet,** Beacon Council
 
 **Alex Cantwell,** Founder/Inventor at FitFones, Inc.
 
@@ -87,13 +95,23 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Floris Chabert**
 
+**Silvia Clarke,** eMerge Americas
+
 **Gabriela Costales**
 
+**Mario Cruz,** Watsco Ventures / Miami Maker Faire
+
 **Nancy Dahlberg,** Refresh Miami
+
+**Rebecca Danta,** Miami Angels
 
 **Federico Decia,** Co-Founder Nub8
 
 **Maria Derchi Russo,** Refresh Miami
+
+**Arjun Desai,** Insightec 
+
+**Jason Devlin,** Watsco Ventures
 
 **Eileen Devline-Ward**
 
@@ -115,7 +133,17 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Jane Gilbert,** High Impact Integrated Solutions
 
+**Ana Paula González,** 500 Startups
+
+**Laura González-Estéfani **
+
+**Claudia Gorham**
+
+**Olga Granda**
+
 **Flavio Nicolay Guimaraes**
+
+**Patricio Guitart**
 
 **Matt Haggman,** Beacon Council 
 
@@ -123,9 +151,13 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Rosa Jiménez Cano**
 
+**Christine Johnson,** VP Innovation, Miami Dade Beacon Council
+
 **Ja'dan Johnson**
 
 **Herwig Konings**
+
+**Melissa Krinzman,** Krillion Ventures
 
 **Angel Lacret.** Founder of Cobuild Lab
 
@@ -139,19 +171,29 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Natalia Martinez-Kalinina**
 
+**Laura I Maydón**
+
 **Melissa Medina,** eMerge Americas 
 
 **Juha Mikkola,** Co-Founder of Wyncode Academy
 
 **Johanna Mikkola,** CEO & Co-Founder, Wyncode Academy
 
+**Brandon Mitchell,** Venture for America
+
 **Rebekah Monson,** WhereBy.Us
 
+**Courtney Murtha**
+
 **Marcia Narine Weldon,** Illuminating Wisdom, LLC 
+
+**Lisa Nuessle,** General Manager, Ironhack 
 
 **Francisco Opazo,** Entrepreneur 
 
 **Michael Ortali**
+
+**Anabel Perez,** NovoPayment 
 
 **Oscar Perez**
 
@@ -163,19 +205,33 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Joanna Popper,** HP, Global Head of VR Go-To-Market 
 
+**Emmanuela Prevolis**
+
 **Ivan Rapin-Smith,** Watsco Ventures
 
 **Ryan Rea** @Volvoshine
 
+**Arnoldo J. Reyes**
+
+**Johnny JR Rodrigues,** emb3Ded
+
 **Alex Rodriguez**  - Azulle
 
-**Jorge Ruiz,** CEO Finconecta 
+**Gabriel Roizner,** Co-founder & CEO Mozper
+
+**Jorge Ruiz,** CEO, Finconecta 
 
 **Marcelo Russo,** Co-founder and COO, QRoom
+
+**Mike Sarasti,** CIO City of Miami
+
+**Mike Sarasti,** CIO City of Miami
 
 **Marte Siebenhar**
 
 **Gigi Silver** 
+
+**Franklin Sirmans,** Pérez Art Museum Miami
 
 **Cristina Solana,**  MiamiJS and Code for Miami
 
