@@ -73,6 +73,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Matt Haggman,** Beacon Council
 
+**Michael Hall,** Founder, Digital Grass
+
 **Felecia Hatcher-Pearson,** Center for Black Innovation
 
 **Christine Johnson,** Beacon Council
@@ -80,6 +82,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Ja'dan Johnson,** Center For Black Innovation
 
 **Herwig Konings,** Security Token Group 
+
+**Moishe Mana,** .mana common 
 
 **Natalia Martinez-Kalinina**
 
