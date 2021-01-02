@@ -97,7 +97,9 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Ryan Rea,** @Volvoshine
 
-**Jorge Ruiz,** CEO, Finconecta 
+**Jorge Ruiz,** CEO, Finconecta
+
+**Rodrigo Teijeiro,** Founder and CEO, RecargaPay
 
 **Max Tuchman,** Co-founder and CEO, Caribu
 
