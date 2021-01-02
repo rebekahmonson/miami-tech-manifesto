@@ -61,6 +61,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Leigh-Ann Buchanan,** President & Executive Director, Venture Cafe Miami
 
+**Alex Cantwell,** Founder/Inventor at FitFones, Inc. 
+
 **Nancy Dahlberg,** Refresh Miami
 
 **Rebecca Danta,** Miami Angels
