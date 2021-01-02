@@ -350,3 +350,5 @@ nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; 
 .site-footer { width: 100%; color: white; font-weight: 400; font-size: 1.1rem; text-align: center; background-color: #DB118A; background-image: linear-gradient(120deg, #DB118A, #299ebc); }
 
 .footer-text a { color: white; font-weight: 800; }
+
+.btn { border: none; }

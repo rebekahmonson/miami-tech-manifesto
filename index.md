@@ -48,3 +48,34 @@ We are building with intention, not perfection.  We welcome challenges, construc
 As we evolve, so will this #MiamiTech Manifesto.  It is a living statement of purpose and accountability.  It is a representation of our commitment to who we are as an ecosystem and where we strive to be.  It is a declaration of the principles we aim to uphold and the values we endeavor to embody.  
 
 Don’t just observe, become an active participant in our experiment.  Take the pledge, add these principles to your website or favorite online platform, and contribute in a way that adds value to our community.
+
+# Who is #MiamiTech?
+The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together. To share your commitment and support of this vision, please [take the pledge](https://forms.gle/xdVAqt6joyorSYHX6).
+
+**Michelle Abbs,** Mana Tech
+
+**Leigh-Ann Buchanan,** Venture Cafe Miami
+
+**Rebecca Danta,** Miami Angels
+
+**Maria Derchi Russo,** Refresh Miami
+
+**Nancy Dahlberg,** Refresh Miami
+
+**Michael Finney,** Beacon Council
+
+**Matt Haggman,** Beacon Council
+
+**Christine Johnson,** Beacon Council 
+
+**Felecia Hatcher-Pearson,** Center for Black Innovation 
+
+**Melissa Medina,** eMerge Americas
+
+**Rebekah Monson,** Whereby.us
+
+**Max Tuchman,** Caribu
+
+**Carlos Vazquez,** Miami EdTech
+
+**Cari Pérez,** General Assembly 
