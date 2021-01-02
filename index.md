@@ -48,10 +48,10 @@ We are building with intention, not perfection.  We welcome challenges, construc
 
 As we evolve, so will this #MiamiTech Manifesto.  It is a living statement of purpose and accountability.  It is a representation of our commitment to who we are as an ecosystem and where we strive to be.  It is a declaration of the principles we aim to uphold and the values we endeavor to embody.  
 
-Don’t just observe, become an active participant in our experiment.  Take the pledge, add these principles to your website or favorite online platform, and contribute in a way that adds value to our community.
+Don’t just observe, become an active participant in our experiment. <a href="https://forms.gle/xdVAqt6joyorSYHX6" target="_blank">Take the pledge,</a> add these principles to your website or favorite online platform, and contribute in a way that adds value to our community.
 
 # Who is <span class="highlight">#MiamiTech?</span>
-The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together. To share your commitment and support of this vision, please <a href="https://forms.gle/xdVAqt6joyorSYHX6" target="_blank">take the pledge.</a>
+The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together. 
 
 **Michelle Abbs,** Mana Tech
 
