@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png 
-counter: 100
+counter: 102
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -57,6 +57,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Michelle Abbs,** Managing Director Mana Tech
 
 **Chris Adamo,** CBO/Investor at WhereBy.Us/Letterhead
+
+**Liz Rebecca Alarcón,** Founder & Executive Director, Pulso
 
 **Jonatan Alava**
 
@@ -155,6 +157,8 @@ The following members of the #MiamiTech community have committed to upholding th
 **Christine Johnson,** VP Innovation, Miami Dade Beacon Council
 
 **Ja'dan Johnson**
+
+**James Kohnstamm,** EVP, Miami-Dade Beacon Council
 
 **Herwig Konings**
 
