@@ -14,7 +14,7 @@ This Manifesto is of, by, and for, the people behind the #miamitech movement.
 ## We Are <span class="highlight">A Community of Builders </span>
 We have grit, ingenuity, and as one of most entrepreneurial metro regions in the country, we innovate by necessity and for purpose beyond profit.  What you build in Miami will work anywhere.
 
-##We Disrupt the Status Quo
+## We Disrupt <span class="highlight">the Status Quo</span>
 We are a testing ground for novel ideas and experimentation. Our leaders are eager to build with and for all.  We’re not only after the next unicorn, but also the business models that elevate technology as a centrifuge to a thriving community.  
 
 ## We Believe <span class="highlight">Talent is Universal</span>
