@@ -10,6 +10,8 @@ If you're not comfortable using Github, you can also submit your suggestions usi
 All updates to this site and pledge submissions are reviewed and approved by the organizing committee. If you would like to be part of the organizing committee, please fill out this form. This is a volunteer project, and we aim to review suggestions and requests weekly.
 
 #### Current organizing committee:
-Names go here
-
+**Leigh-Ann Buchanan,** Venture Cafe Miami
+**Maria Derchi Russo,** Refresh Miami
+**Christine Johnson,** Beacon Council 
+**Rebekah Monson,** WhereBy.Us
 
