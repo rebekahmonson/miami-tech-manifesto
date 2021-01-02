@@ -55,28 +55,36 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Michelle Abbs,** Mana Tech
 
-**Leigh-Ann Buchanan,** Venture Cafe Miami
+**Leigh-Ann Buchanan,** President & Executive Director, Venture Cafe Miami
+
+**Nancy Dahlberg,** Refresh Miami
 
 **Rebecca Danta,** Miami Angels
 
 **Maria Derchi Russo,** Refresh Miami
 
-**Nancy Dahlberg,** Refresh Miami
-
 **Michael Finney,** Beacon Council
 
 **Matt Haggman,** Beacon Council
 
+**Felecia Hatcher-Pearson,** Center for Black Innovation
+
 **Christine Johnson,** Beacon Council 
 
-**Felecia Hatcher-Pearson,** Center for Black Innovation 
+**Natalia Martinez-Kalinina**
 
 **Melissa Medina,** eMerge Americas
 
 **Rebekah Monson,** Whereby.us
 
+**Cari Pérez,** General Assembly 
+
+**Ivan Rapin-Smith,** Watsco Ventures
+
 **Max Tuchman,** Caribu
 
 **Carlos Vazquez,** Miami EdTech
 
-**Cari Pérez,** General Assembly 
+**David Zinn,** Ocean Azul Partners
+
+
