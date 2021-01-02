@@ -83,6 +83,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Herwig Konings,** Security Token Group 
 
+**Travis Laurendine,** CODEMKRS
+
 **Moishe Mana,** .mana common 
 
 **Natalia Martinez-Kalinina**
