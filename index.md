@@ -53,66 +53,148 @@ Don’t just observe, become an active participant in our experiment. <a href="h
 # Who is <span class="highlight">#MiamiTech?</span>
 The following members of the #MiamiTech community have committed to upholding these values, staying accountable to each other and the community at-large, and building a more prosperous and equitable tech community together. 
 
-**Michelle Abbs,** Mana Tech
+**Michelle Abbs**
 
-**Demian Bellumio,** Aunken Ventures, LLC
+**Chris Adamo,** CBO/Investor at WhereBy.Us/Letterhead
 
-**Brian Breslin,** Refresh Miami and The Launch Pad
+**Jonatan Alava**
+
+**Kimberly Aldunate**
+
+**JC Alvarez,** Clarify and Built In Miami
+
+**Andres Arias** / Clarity
+
+**Demian Bellumio**
+
+**Kiel Berry**
+
+**Marie Berry,** Founder and Angel
+
+**Mario Betancourt**
+
+**Gean Biffulco**
+
+**Brian Breslin** - Refresh Miami + The Launch Pad
 
 **Leigh-Ann Buchanan,** President & Executive Director, Venture Cafe Miami
 
-**Alex Cantwell,** Founder/Inventor at FitFones, Inc. 
+**Alex Cantwell,** Founder/Inventor at FitFones, Inc.
+
+**Seth Cassel**
+
+**Luc Castera** - Founder, Octopi
+
+**Floris Chabert**
+
+**Gabriela Costales**
 
 **Nancy Dahlberg,** Refresh Miami
 
-**Rebecca Danta,** Miami Angels
+**Federico Decia,** Co-Founder Nub8
 
 **Maria Derchi Russo,** Refresh Miami
 
-**Michael Finney,** Beacon Council
+**Eileen Devline-Ward**
 
-**Matt Haggman,** Beacon Council
+**Vanessa Duran,** Principal at DCC Accounting 
+
+**Cesar Fernandez** - Converge Government Affairs, ex-Uber 
+
+**Wifredo “Wifi” Fernández** - Scout, Lightspeed Venture Partners
+
+**Maurice R. Ferre,** Insightec Chairman & CEO
+
+**Michael A. Finney,** President & CEO, Miami-Dade Beacon Council
+
+**Cheriene Floyd**
+
+**Krystina François,** Executive Director, Office of New Americans of Miami-Dade
+
+**Michael Friedberg,** Founder/President of SEO Nerd 
+
+**Jane Gilbert,** High Impact Integrated Solutions
+
+**Flavio Nicolay Guimaraes**
+
+**Matt Haggman,** Beacon Council 
 
 **Michael Hall,** Founder, Digital Grass
 
-**Felecia Hatcher-Pearson,** Center for Black Innovation
+**Rosa Jiménez Cano**
 
-**Christine Johnson,** Beacon Council
+**Ja'dan Johnson**
 
-**Ja'dan Johnson,** Center For Black Innovation
+**Herwig Konings**
 
-**Herwig Konings,** Security Token Group 
+**Angel Lacret.** Founder of Cobuild Lab
 
-**Travis Laurendine,** CODEMKRS
+**Travis Laurendine**
 
-**Moishe Mana,** .mana common 
+**Evan Leaphart** - Founder, Kiddie Kredit
+
+**Moishe mana** .mana common 
+
+**Nacho Marcotegui** - NEORIS USA, INC
 
 **Natalia Martinez-Kalinina**
 
-**Melissa Medina,** eMerge Americas
+**Melissa Medina,** eMerge Americas 
+
+**Juha Mikkola,** Co-Founder of Wyncode Academy
+
+**Johanna Mikkola,** CEO & Co-Founder, Wyncode Academy
 
 **Rebekah Monson,** WhereBy.Us
 
 **Marcia Narine Weldon,** Illuminating Wisdom, LLC 
 
+**Francisco Opazo,** Entrepreneur 
+
+**Michael Ortali**
+
+**Oscar Perez**
+
 **Cari Pérez,** General Assembly 
 
-**Michael J. Pichardo,** REEF
+**Michael J. Pichardo**
+
+**Justin Pinn,** Board Member, Miami EdTech
+
+**Joanna Popper,** HP, Global Head of VR Go-To-Market 
 
 **Ivan Rapin-Smith,** Watsco Ventures
 
-**Ryan Rea,** @Volvoshine
+**Ryan Rea** @Volvoshine
 
-**Jorge Ruiz,** CEO, Finconecta
+**Alex Rodriguez**  - Azulle
 
-**Rodrigo Teijeiro,** Founder and CEO, RecargaPay
+**Jorge Ruiz,** CEO Finconecta 
 
-**Max Tuchman,** Co-founder and CEO, Caribu
+**Marcelo Russo,** Co-founder and COO, QRoom
 
-**Carlos Vazquez,** Miami EdTech
+**Marte Siebenhar**
 
-**David Zinn,** Ocean Azul Partners
+**Gigi Silver** 
 
+**Cristina Solana** | MiamiJS | Code for Miami
 
+**Rodrigo Teijeiro,** Founder & CEO of RecargaPay
 
+**Roger E. Teran**
 
+**Gessica Tortolano** Wyncode Academy 
+
+**Max Tuchman,** CEO + Co-Founder of Caribu
+
+**Cristina Urdaneta** 
+
+**Carlos Vazquez** 
+
+**Will Weinraub,** The Local Leaders Collective
+
+**Livio A. Zanardo**
+
+**David Zinn**
+
+**Jimena Zubiria**
