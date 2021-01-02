@@ -2,4 +2,11 @@ title: 'We are #MiamiTech'
 description: Join us in building an equitable, collaborative, diverse and thriving community for makers, technologists, and advocates in the 305.
 theme: jekyll-theme-cayman
 google_analytics:
-url: 'https://rebekahmonson.com/miami-tech-manifesto/'
+url: 'https://wearemiamitech.com'
+twitter:
+  card: summary
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/socialimg.png
