@@ -177,7 +177,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Gigi Silver** 
 
-**Cristina Solana** | MiamiJS | Code for Miami
+**Cristina Solana,**  MiamiJS and Code for Miami
 
 **Rodrigo Teijeiro,** Founder & CEO of RecargaPay
 
