@@ -230,7 +230,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Mike Sarasti,** CIO City of Miami
 
-**Mike Sarasti,** CIO City of Miami
+**Michael Schofield**
 
 **Marte Siebenhar**
 
