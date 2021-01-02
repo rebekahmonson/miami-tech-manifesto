@@ -55,6 +55,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Michelle Abbs,** Mana Tech
 
+**Demian Bellumio,** Aunken Ventures, LLC
+
 **Leigh-Ann Buchanan,** President & Executive Director, Venture Cafe Miami
 
 **Nancy Dahlberg,** Refresh Miami
