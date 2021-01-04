@@ -339,7 +339,7 @@ nav a { color: white; font-family: 'Permanent Marker', 'Open Sans', sans-serif; 
 
 .page-header { padding: 0; background-color: #DB118A; background-image: linear-gradient(120deg, #DB118A, #299ebc); }
 
-.header-text { padding: 0 10%; }
+.header-text { padding: 4rem 10% 1.5rem 10%; }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4 { color: #DB118A; font-family: 'Permanent Marker', 'Open Sans', sans-serif; letter-spacing: 2px; }
 
