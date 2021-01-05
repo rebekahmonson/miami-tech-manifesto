@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png 
-counter: 138
+counter: 257
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -40,7 +40,7 @@ We know that innovation is not a zero sum game.  It’s in our best interest to 
 
 ## We Are <span class="highlight">Women-Led</span>
 We are the only major US city founded by a woman.  In fact, we’re proud that so many of the resources for founders -- from the accelerators, incubators, angel groups, coworking spaces, programs and conferences -- are women led.This doesn’t mean we’re free from the inequities in representative board leadership, access to capital, or the endemic bro-culture that plagues other tech communities. We all remain vigilant to avoid gender exclusive panels, committees or advisory groups.
- 
+
 ## We Are <span class="highlight">Transparent About Failure</span>
 Which is really hard to do.  We still struggle with calling out the outliers whose actions erode public trust and confidence. Let’s be honest: we have a storied history of racial inequality, striking disparities, affordability, homelessness, financial insecurity, gentrification and cultural fragmentation.  Yet, we are constantly learning from our mistakes and from lessons of failures in other communities.
 
@@ -323,3 +323,239 @@ The following members of the #MiamiTech community have committed to upholding th
 **Brian Zisk**
 
 **Jimena Zubiria**
+
+**Nelly M. Farra,** Co-Founder + COO of Perchance
+
+**Albert Paredes,** SoftwareCraft
+
+**Mark Scharnitz**
+
+**Jared Husch**
+
+**Janet Kyle Altman**
+
+**Alejandro Mainetto**
+
+**Gita Shonek**
+
+**Mike Teichberg,** SHRM-CP
+
+**Mauricio Villaescusa**
+
+**Roberto Interiano**
+
+**Alvaro Melendez,** CRANT
+
+**Traci Levine**
+
+**Phillippe Saint-Just,** Co-Founder
+
+**Ignacio Paricio,** UX advocate
+
+**Maria Beckles**
+
+**Kimberly T. Henderson,** Neighborhood Housing Services of South Florida
+
+**Yasiel Segui,** Miami Tech Advocate
+
+**Michael Coronado**
+
+**Marcelo C. Freire,** Sr. Director Global Exp. &amp; Innovation
+
+**Amy Knox,**
+
+**LaToya Stirrup,** Kazmaleje
+
+**Bonnie Lee,**
+
+**Haley Kirk,**
+
+**Ken Finneran,** VP Global HR
+
+**Erick Gavin,** Center for Black Innovation
+
+**Juan Pablo Degiovanni,** Crystalzoom
+
+**Beto Garza**
+
+**Andy Weiss**
+
+**Randy Carballo,** Blanca CRE
+
+**Max Ringelheim,** When Going Viral
+
+**Jose Vargas -** PeopleFund.com
+
+**Natalie Ton**
+
+**Isa Bolivar,** Uber
+
+**Kelsey E. Rumburg,** Author of Trash to Treasure
+
+**Markus Straarup,** Founder of Friendspire
+
+**Kyle Maharlika,** Associate @ VCM
+
+**Julia Marina**
+
+**Charles D. Villard**
+
+**Aileen Alon**
+
+**Joseph Russo**
+
+**Kevin Amézaga**
+
+**Miles J. Varghese**
+
+**Sara Rosenthal**
+
+**Sam Blatt,** Miami-Dade Beacon Council
+
+**Yendi,** Doxie Digital Media
+
+**Nemanja Stojanovic,** Head of Engineering @ Enki.com
+
+**Mariana Rego,** Senior Product Manager
+
+**Jake Wells**
+
+**Leo Correa**
+
+**Diana Londono,** International Economic Development
+
+**Brenda Matos,** Product Designer
+
+**Andrea Torres,** Head of Partnerships at Endeavor
+
+**Rachel Lipoff**
+
+**Valerie Lopez,** CEO &amp; Co-founder at Shoot My Travel
+
+**Rebecca Negro Rocha,** Endeavor
+
+**Earle Acosta**
+
+**Tarkan Kocoglu**
+
+**Antoine Forest,** Co Founder - Stargazer.co - Followpass.app
+
+**Joe Chin**
+
+**Lucas Rosa,** Founder Pedra CRM
+
+**Ailyn Guerra**
+
+**Alicia Pierre,** Legally Techie™
+
+**Matias Beeck**
+
+**Stan COIGNARD,** French Tech Miami - Community Lead
+
+**Laurent GALLISSOT,** Consul General of France in Miami
+
+**Greg Horowitz,** Consulate General of Israel in Miami
+
+**Champ Bennett**
+
+**Xavier Gonzalez,** Cyxtera
+
+**David Barkoe,** Carve Communications
+
+**Sarah Nohe**
+
+**Leon Gomez**
+
+**Doug Skoke,** Benjamin Douglas
+
+**Michael Wise,** Director of Data Science @ CRANT
+
+**Sean Daly,** Founder, Expetitle
+
+**Stephen Weaver,** Venture for America
+
+**Jairo Cano,** Caiman Immunizer Antimalware
+
+**Sebastian Gomez Puerto**
+
+**MARIA CLARA MEJIA**
+
+**Ricardo Teran,** Co-founder - FOLIO
+
+**Darrin Scorpio Campbell,** StartUPs United
+
+**Jorge Valens**
+
+**Mellanie Malik**
+
+**Adrienne C. McWilliams,** Co-Founder &amp; CEO of BRIDGE Networks
+
+**Amy Austin Renshaw**
+
+**Suzanne Salas**
+
+**David Bisset**
+
+**Nicki Tessler**
+
+**Juan Sebastian Arrubla**
+
+**Rebecca Willett,** software developer
+
+**Rodrigo Vogeler**
+
+**Matti Marshak LAB Ventures,** Studio CEO
+
+**Gladys Downs**
+
+**Esteban Reyes**
+
+**Alejandro Rodriguez**
+
+**Alex Tellez,** Ocean Azul Partners
+
+**Gabriela Sabate**
+
+**Annette Green Tellez,** Code/Art
+
+**Gabriela Sabate,** Health Semantics
+
+**Jose Fermin,** CEO @ What a TV
+
+**Enrique Garza**
+
+**Kaitlyn Elphinstone,** Cayman Enterprise City
+
+**Christian Schweizer,** President HBS Alumni Angels South Florida
+
+**Gavin Heale**
+
+**Mark Osterman**
+
+**Ricardo Sangion,** TheVentureCity
+
+**Ariel Quiñones,** Ironhack
+
+**Temante Leary**
+
+**Nate Causey**
+
+**Eddie Garcia**
+
+**Edgard D. Duque,** TheVentureCity
+
+**William Herrera,** IT System Engineer
+
+**David Jessup Jr.**
+
+**Camilo Crespo**
+
+**Emily J Gleason**
+
+**Gustavo Grande,** The Idea Center at MDC
+
+**Romi Bhatia**
+
+**Andrea Vigil,** Cushman &amp; Wakefield
+
+**Jonathan Fichman,** Kabot Advisors
