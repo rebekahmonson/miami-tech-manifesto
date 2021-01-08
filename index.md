@@ -652,11 +652,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Hernan Mayol**, Apprentice Worldwide
 
-**Argenis Pelayo**
-
 **Kenasha Paul**, Black Professionals Network
-
-**Michael Maniscalco**
 
 **Ashley Rousseau**
 
