@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png 
-counter: 254
+counter: 319
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -559,3 +559,135 @@ The following members of the #MiamiTech community have committed to upholding th
 **Andrea Vigil,** Cushman &amp; Wakefield
 
 **Jonathan Fichman,** Kabot Advisors
+
+**Andre Miranda** - Tech Innovations 
+
+**Karin Klein**, Bloomberg Beta
+
+**Juan Rosas** | Brandstronaut.com | Future Proof Websites
+
+**Marilu Rios**
+
+**Timothy Hasse**, Founder of General Provision, Founder of T R I M
+
+**Patricia Garcia**, Founder @ college thrifts
+
+**Mike Lingle** // Rocket Pro Forma
+
+**Juan C. Teran**, CONSULADVISORS LLC
+
+**David Azar**
+
+**jessica shraybman**
+
+**Beatriz Ayala**, Co-founder & CEO Musicasa
+
+**Alesia Salvatierra**
+
+**Nishita Aswani**
+
+**John Levinson**,  Westway Capital
+
+**Alfredo Sarria**, Co-Founder @ SerpGuru
+
+**Douglas Almeida**, Stayfilm
+
+**Claudia Duran**
+
+**AMANDA LEVIEN**
+
+**Monica Rojas**, Palm Beach Tech
+
+**Pedro Sostre**, Navigate.capital
+
+**Daniel Kleinman**, Seaworthy Collective
+
+**Nicolas M Iglesias**
+
+**ANTHONY GINTER**, WATERDIAM GROUP
+
+**Brent Saiontz**
+
+**Kevin Choi**, Resources.co
+
+**Ixax Tavarez**
+
+**Nicolas Lares**, Serial Entreprenuer
+
+**Maria Dreyfus-Ulvert**
+
+**Hans O. Rueckschnat**
+
+**Yuda Saydun**, CyVent 
+
+**Branden Bedoya**, Google
+
+**Kevin Levy**, Gray Robinson, P.A.
+
+**maria c. alonso**
+
+**James Irvine**, 305 Works 
+
+**Lulu Carbonell**, Liquid Carrot Founder; Cell-Ed VP; LifePath CTO
+
+**Cesar Villa Garcia**, Advisor - Upsilon Pi Epsilon @ FIU & Software Engineer @ JPMC
+
+**Maria Dominguez**, Site Director of CIC Miami
+
+**Essa Zouga**
+
+**Julio Poppe** - Ruway Ventures
+
+**JOAN ZHANG**
+
+**Sebastian Silva**
+
+**Chelsie Cooper**, Approvely 
+
+**John Wensveen,** Ph.D., Chief Innovation Officer, Nova Southeastern University
+
+**Irina D Woelfle**
+
+**Laurent Ruben** - Partner @ French Accelerator / FaBB
+
+**Hernan Mayol**, Apprentice Worldwide
+
+**Argenis Pelayo**
+
+**Kenasha Paul**, Black Professionals Network
+
+**Michael Maniscalco**
+
+**Ashley Rousseau**
+
+**Martin Ogawa**
+
+**Fabio Escobar**
+
+**Jose Romero**
+
+**Kayla Cartwright**
+
+**Rachel Streitfeld**, North Bay Village Commissioner
+
+**Jorge Lozano**, Ploosi
+
+**Marcelo Daniel Sanchez**, oneshotapp.com
+
+**Nikki Cabus**, Palm Beach Tech Association
+
+**Alexandra Wilkis Wilson**, Clerisy
+
+**Josue Rodriguez**
+
+**Andres Vallejo,** Co-Founder @ Navigate
+
+**Henry Mederos**, Software Engineer
+
+**Andrew Bowyer**
+
+**Samuel J Morris**, Gigasheen LLC
+
+**Amanda Vasco**, LAB Miami Ventures
+
+**Raul G Faife**, UPEFIU
