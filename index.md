@@ -564,7 +564,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Karin Klein**, Bloomberg Beta
 
-**Juan Rosas** | Brandstronaut.com | Future Proof Websites
+**Juan Rosas**, Brandstronaut.com, Future Proof Websites
 
 **Marilu Rios**
 
