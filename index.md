@@ -158,6 +158,8 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Maurice Gabriel,** Your Strategic Partner
 
+**Carlos Raul Garcia**
+
 **Jane Gilbert,** High Impact Integrated Solutions
 
 **Ana Paula González,** 500 Startups
