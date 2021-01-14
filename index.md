@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png 
-counter: 319
+counter: 352
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -687,3 +687,69 @@ The following members of the #MiamiTech community have committed to upholding th
 **Amanda Vasco**, LAB Miami Ventures
 
 **Raul G Faife**, UPEFIU
+
+**Arathi Ramappa** 
+
+**Laurie Weisberg** Creatd COO
+
+**Scott Rosenbluth**, CRAZE 
+
+**Patrick Corbett**   Founder, Mind Stimuli Labs, Co
+
+**Lynn Hackney**
+
+**Amber Berger**
+
+**John Hall**, Brickell Opportunity Partners
+
+**Will Gendron**
+
+**Chris Stegner** - CEO & Co-Founder of Very Big Things
+
+**Mario L Castellanos**
+
+**Paul Roatta**, CISSP
+
+**Lila de la Chesnaye**, ex-Chewy/Instacart/Nearpod
+
+**Rebecca Rovirosa-Capote**, L'epic Miami 
+
+**J.J. Sass**
+
+**Aldo Mora**, Sprezet 
+
+**Ernesto Jerónimo Kemmerer**, ek Technology Consulting
+
+**Ashok Deshmukh**
+
+**JJ Ogrey**, Founder
+
+**Akos Balogh**, Moscase Inc
+
+**Devin Patel**, VP of Business Development, Passport
+
+**Fabian Divito**
+
+**Serge Elkiner**
+
+**Laura Gabrysiak**, R-Ladies Miami
+
+**EMILIO ESCARTIN**
+
+**Tamas Doffek**
+
+**Annette King**, Founder & CEO at Muuchit
+
+**Traci Levine**
+
+**Delia DeBuc**, Founder and CEO, iScreen 2 Prevent , LLC
+
+**Richard Bermudez**
+
+**Raquel Quezada**
+
+**Antonio Llanos**, CTO LaCalle Group
+
+**Daniel Brito** - Outcomes Manager @ Ironhack Miami
+
+**Reneida Leon**
