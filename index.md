@@ -778,7 +778,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Paola Correa** - TedXMiami 
 
-**Andres Saravia** @ Meridian PDP | Data Privacy
+**Andres Saravia** @ Meridian PDP - Data Privacy
 
 **Willy Orozco** SoFlo RM for Microsoft TEALS
 
