@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png 
-counter: 353
+counter: 386
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -92,7 +92,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Stephanie Brito,** Software Engineer at Google + Master’s Student at Stanford
 
-**Leigh-Ann Buchanan,** President & Executive Director, Venture Cafe Miami
+**Leigh-Ann Buchanan,** President & Executive Director, aīre ventures
 
 **Maria Budet,** Beacon Council
 
@@ -755,3 +755,71 @@ The following members of the #MiamiTech community have committed to upholding th
 **Daniel Brito** - Outcomes Manager @ Ironhack Miami
 
 **Reneida Leon**
+
+**Nicolette Ghimire**
+
+**Rogelio Caceres**, RCG Global 
+
+**Jayda Washington-Boothe**
+
+**Danilo E Salazar**
+
+**Sarah Lucas**
+
+**Howard Gitten**
+
+**Daniel Almeida**, Stayfilm
+
+**Julia Wilkinson**, imvest - invent, invest, impact
+
+**Kevin Cadette**, Black Angels Miami
+
+**Jonathan Cox**, CEO and Founder at Grownextdoor
+
+**Paola Correa** - TedXMiami 
+
+**Andres Saravia** @ Meridian PDP | Data Privacy
+
+**Willy Orozco** SoFlo RM for Microsoft TEALS
+
+**Yagiz Sozmen**, CORE
+
+**Patricia Gil**
+
+**Scott Weinreb**
+
+**Erez Hevroni** 
+
+**Marlon Hill**
+
+**Marta Viciedo**, Urban Impact Lab
+
+**Kamalah Fletche**r, A Little Help Never Hurt
+
+**Keena Fletcher**, Groups of Good People
+
+**Randy Fuentes**
+
+**Michael Samway**, The Business and Human Rights Group
+
+**Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital
+
+**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC 
+
+**Susanna Kohly Jacobson**, Google Cuba
+
+**Fabio Iannelli**, ADVANSIS
+
+**Stephanie Rios** - Founder, Pop Squid MKG
+
+**Andrej Kostresevic**, Partner, DART Ventures
+
+**Ivon Rodriguez**, CMO @ Linqto
+
+**Augusto Landestoy**
+
+**Bill Hinostroza**, EasyClout
+
+**Cody A Bess**
+
+**Stacey Kawakami**
