@@ -350,7 +350,7 @@ The following members of the #MiamiTech community have committed to upholding th
 
 **Traci Levine**
 
-**Phillippe Saint-Just,** Co-Founder
+**Philippe Saint-Just,** Co-Founder, REEF Technology
 
 **Ignacio Paricio,** UX advocate
 
