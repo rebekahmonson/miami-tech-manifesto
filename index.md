@@ -2,7 +2,7 @@
 title: 'We are #MiamiTech'
 layout: default
 image: /assets/images/socialimg.png 
-counter: 386
+counter: 406
 ---
 Miami has always been a haven for innovators, for builders, for disrupters and for those wielding the power of technology as a tool of change.    
 
@@ -823,3 +823,113 @@ The following members of the #MiamiTech community have committed to upholding th
 **Cody A Bess**
 
 **Stacey Kawakami**
+
+**Nicolette Ghimire**
+
+**Rogelio Caceres**, RCG Global 
+
+**Jayda Washington-Boothe**
+
+**Danilo E Salazar**
+
+**Sarah Lucas**
+
+**Howard Gitten**
+
+**Daniel Almeida**, Stayfilm
+
+**Julia Wilkinson**, imvest - invent, invest, impact
+
+**Kevin Cadette**, Black Angels Miami
+
+**Jonathan Cox**, CEO and Founder at Grownextdoor
+
+**Paola Correa** - TedXMiami 
+
+**Andres Saravia** @ Meridian PDP | Data Privacy
+
+**Willy Orozco** SoFlo RM for Microsoft TEALS
+
+**Yagiz Sozmen**, CORE
+
+**Patricia Gil**
+
+**Scott Weinreb**
+
+**Erez Hevroni** 
+
+**Marlon Hill**
+
+**Marta Viciedo**, Urban Impact Lab
+
+**Kamalah Fletcher**, A Little Help Never Hurt
+
+**Keena Fletcher**, Groups of Good People
+
+**Randy Fuentes**
+
+**Michael Samway**, The Business and Human Rights Group
+
+**Andrew Sturner**, Founder Orange Island Ventures, co-founder of Boatsetter, Miami Angels,& Entourage Effect Capital  ,
+
+**Juan José Portela Zardetto** - CEO  PHLOX Networks a Division of SILIGOM USA LLC 
+
+**Susanna Kohly Jacobson**, Google Cuba
+
+**Fabio Iannelli**, ADVANSIS
+
+**Stephanie Rios** - Founder, Pop Squid MKG
+
+**Andrej Kostresevic**, Partner, DART Ventures
+
+**Ivon Rodriguez**, CMO @ Linqto
+
+**Augusto Landestoy**
+
+**Bill Hinostroza**, EasyClout
+
+**Cody A Bess**
+
+**Stacey Kawakami**
+
+**Juliana Tafur** - Listen Courageously / Orkidea Films
+
+**Lesley DeCanio**
+
+**Joan M. Godoy,** Radical Partners
+
+**Mitali Saxena**
+
+**CHANAN AVERBUCH**
+
+**Dirk Leifer**, Level 5 Partners
+
+**Ana Ordoñez**
+
+**Brandon Turp** 
+
+**Fausto Carassai** @ BigDevsLLC
+
+**Richard Lamondin**
+
+**Matheus Pessanha**, Jobis
+
+**Stephanie Davis**, ex-Googler 
+
+**Soledad Picon**
+
+**Jacob Gurrola**, Avisual LLC
+
+**Jade Reichling**, EisnerAmper
+
+**Patricia Beitler**, Velocitas Marketing + PR 
+
+**Nikisha Williams**, Opa-locka CDC
+
+**Elizabeth Decker**, President, SIM South Florida
+
+**Mayor Jane Bolin**
+
+**Brenda Freeman** Tech advisor and business leader
+
+**Danny Kattan**
